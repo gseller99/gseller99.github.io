@@ -1,6 +1,25 @@
-p {
- font-family: Arial;
+h1 {
+	color: red;
+			}
+.gary-profile {
+
+}
+.gary-profile img {
+	height: 400px;
+	float: left;
+	padding-right: 15px;	
 }
 
-.featured {
-	color: purple
+.work-box {
+	float: left;
+	width: 200px;
+	
+}
+.educ-box {
+	/*float: right;
+	width: 200px;*/
+	
+}
+.images-bottom-page {
+	float:left;
+}
